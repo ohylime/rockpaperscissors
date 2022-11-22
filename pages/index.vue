@@ -9,3 +9,9 @@
 </template>
 
 <script setup lang="ts"></script>
+<style lang="scss">
+body,
+html {
+  background-color: beige;
+}
+</style>
